@@ -1,19 +1,44 @@
 {
-    "items": [
-        {
-            "id": 1,
-            "checked": false,
-            "item": "Almonds"
-        },
-        {
-            "id": 2,
-            "checked": false,
-            "item": "Pizza"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "Bread"
-        }
-    ]
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Almonds"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Cookies"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "pasta"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "chocolate"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "chocolate"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "Pizza"
+    },
+    {
+      "id": 11,
+      "checked": false,
+      "item": "pizza"
+    }
+  ]
 }
